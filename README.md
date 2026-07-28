@@ -51,7 +51,7 @@ pin_generator = EnterprisePasswordGenerator(
     use_lower=False, 
     use_symbols=False
 )
-```
+``` 
 
 ## Understanding Entropy Scores
 
